@@ -43,7 +43,7 @@ chmod +x dnsleaktest.sh
 
 ## How to install & use Python Version                                                                                  
 
-### Linux
+### Linux & Windows Python way
 
 1. Download dnsleaktest.py
 ```
@@ -59,7 +59,7 @@ chmod +x dnsleaktest.py
 ./dnsleaktest.py
 ```
 
-### Windows
+### Windows CMD way
 
 1. Download dnsleaktest.bat
 
